@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local database
+clinical_portal.db
+
+# Backups
+project_backup_*/
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/

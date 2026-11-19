@@ -253,6 +253,8 @@ The pipeline will extract the CSV data, validate and transform records, and load
 ```bash
 streamlit run app.py
 ```
+### Demo
+https://healthcare-data-warehousing-and-mining-ojudazbcmzhwjlwafvxvwq.streamlit.app/
 
 ## Database and Data Integrity
 
